@@ -1,5 +1,5 @@
 # Space-Art
-NASA Space Apps Challenge 2022 in Rorario, Argentina
+We are [Space Art](https://2022.spaceappschallenge.org/challenges/2022-challenges/art-worlds/teams/space-art-3/project) from Argentina.
 
 # Technical Requirements
 
